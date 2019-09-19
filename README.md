@@ -18,6 +18,8 @@
     - 2.1、简介：包含传统的基于统计模型(CRF)和基于深度学习(Embedding-Bi-LSTM-CRF)下的医疗数据的命名体识别
 - 3、[fordi/CCK2019_Chinese_Clinical_NER](https://github.com/fordai/CCKS2019_Chinese_Clinical_NER)
     - 3.1、简介：The word2vec BiLSTM-CRF model for Chinese clinical named entity recognition.
+- 4、[中文文本分类的Pytorch实现](https://zhuanlan.zhihu.com/p/73176084) ----> [github](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+    - 4.1、简介：中文数据集，从THUCNews中抽取了20万条新闻标题，文本长度在20～30之间，一共10个类别，每类2万条。
 
 
 ## 知乎相关
@@ -35,3 +37,4 @@
 ## 训练及练习
 
 - 1、[一个很赞NLP入门代码练习库（含Pytorch和Tensorflow版本）](https://github.com/graykode/nlp-tutorial)
+    - 1.1、简介：该仓库中觉大部分内容代码不超过100行，包括了NLP中比较全面的基础内容：如：基本的Embedding模型，经典的CNN，RNN的模型实现，Attention,Transformer以及目前最火的Bert相关。
