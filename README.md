@@ -20,6 +20,8 @@
     - 3.1、简介：The word2vec BiLSTM-CRF model for Chinese clinical named entity recognition.
 - 4、[中文文本分类的Pytorch实现](https://zhuanlan.zhihu.com/p/73176084) ----> [github](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
     - 4.1、简介：中文数据集，从THUCNews中抽取了20万条新闻标题，文本长度在20～30之间，一共10个类别，每类2万条。
+- 5、[huggingface/pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
+    -  A library of state-of-the-art pretrained models for Natural Language Processing(NLP).
 
 
 ## 知乎相关
